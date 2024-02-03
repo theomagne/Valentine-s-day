@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Will you be my valentine?</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body style="background-color: #FFCCCC;">
+    <div class="container">
+        <h1>Will you be my valentine?</h1>
+        <img src="path_to_your_image.jpg" alt="/Users/theomagne/Desktop/IMG_4376.jpeg">
+        <button id="yesButton">Yes</button>
+        <button id="noButton" onclick="moveButton()">No</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
